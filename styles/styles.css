@@ -1,7 +1,7 @@
 body {
 font-family: 'Inconsolata', monospace;
 color: #1408FC;
-background-color: #000000;
+background-color: #ffffff;
 text-align: center;
 }
 
@@ -45,6 +45,8 @@ header{
 section {
   text-align: center;
 }
+
+
 
 .responsiveimage img
 {
@@ -100,6 +102,7 @@ text-align: center;
 background-color: rgba(255,255,255,0,5);
 padding: 2em;
 }
+
 
 footer{
 
